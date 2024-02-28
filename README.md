@@ -22,7 +22,7 @@
   📫 How to reach me: <a href='mailto:biia.mfs@gmail.com'>biia.mfs@gmail.com</a>
 </p>
 
-<details>
+<details open>
   <summary>📃 Resume</summary>
 
 
@@ -38,14 +38,79 @@
 <img align="right" src="https://img.shields.io/badge/Flutter-181717?logo=flutter&logoColor=white&color=purple" />
 <img align="right" src="https://img.shields.io/badge/React_Native-181717.svg?logo=react&logoColor=white&color=blue" />
 <img align="right" src="https://img.shields.io/badge/React-181717?logo=react&logoColor=white&color=blue" />
+<img align="right" src="https://img.shields.io/badge/Node-181717?logo=nodedotjs&logoColor=white&color=green" />
+
+
+- 👨‍💻 **React Js Developer Front-end**\
+📆 2023 - Current\
+📍 **HumanIT Digital Consulting** - São Paulo/SP, Brazil
+
+- 👨‍💻 **Senior Software Engineer**\
+📆 2023 - Current\
+📍 **Quantica** - São Paulo/SP, Brazil
 
 - 👨‍💻 **Consultant Developer**\
 📆 2021 - 2023\
-📍 **Thoughtworks Brazil** - São Paulo/SP, Brazil
+📍 **Thoughtworks** - São Paulo/SP, Brazil
   
 - 👨‍💻 **Consultant Developer**\
 📆 2019 - 2021\
 📍 **ACCT Consulting and Technology Brasil** - São Paulo/SP, Brazil
 
+## Languages
+
+English: Fluent 
+Portuguese: Native Speaker
+Spanish: Basic
+French: Basic
+
+## Skills
+
+### Programming Languages
+ - JavaScript
+ - Typescript
+ - CSS
+ - Node js
+ - HTML
+ - Dart
+
+### Frameworks and Libraries
+- React.js
+- React Native
+- Next.Js
+- Flutter
+- TypeORM
+- Jest
+- Redux
+- Express.js
+- Nest.Js
+- Robot Framework
+- Cypress
+- Sass
+- CSS Modules
+- Webpack
+- Babel
+- Git
+- Github
+- GitLab
+- Styled Components
+- React Testing Library
+
+### CI/CD and Databases:
+ - Github Actions
+ - Openshift
+ - Jenkins
+ - MySQL
+ - Neo4J
+
+### Additional Skills
+ - Accessibility
+ - Responsivity
+ - AGILE
+ - UX
+ - TDD
+ - SEO
+ - REST API
+ - Figma
 
 </details>
