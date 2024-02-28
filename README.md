@@ -19,13 +19,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=BeatrizMiranda&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
   📫 How to reach me: <a href='mailto:biia.mfs@gmail.com'>biia.mfs@gmail.com</a>
 </p>
-
 
 <details>
   <summary>📃 Resume</summary>
