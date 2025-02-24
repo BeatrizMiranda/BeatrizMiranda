@@ -45,7 +45,7 @@
 📍 **CI&T Digital Consulting** - São Paulo/SP, Brazil
 
 - 👨‍💻 **Senior Software Engineer**\
-📆 2023 - Current\
+📆 2023 - Current - Part time\
 📍 **Quantica** - São Paulo/SP, Brazil
 
 - 👨‍💻 **React Js Developer Front-end**\
@@ -62,10 +62,10 @@
 
 ## Languages
 
-English: Fluent 
-Portuguese: Native Speaker
-Spanish: Basic
-French: Basic
+English: Fluent \
+Portuguese: Native Speaker\
+Spanish: Basic\
+French: Basic\
 
 ## Skills
 
