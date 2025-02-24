@@ -65,7 +65,7 @@
 English: Fluent \
 Portuguese: Native Speaker\
 Spanish: Basic\
-French: Basic\
+French: Basic
 
 ## Skills
 
