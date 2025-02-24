@@ -40,14 +40,17 @@
 <img align="right" src="https://img.shields.io/badge/React-181717?logo=react&logoColor=white&color=blue" />
 <img align="right" src="https://img.shields.io/badge/Node-181717?logo=nodedotjs&logoColor=white&color=green" />
 
-
-- 👨‍💻 **React Js Developer Front-end**\
-📆 2023 - Current\
-📍 **HumanIT Digital Consulting** - São Paulo/SP, Brazil
+- 👨‍💻 **Senior System Analyst**\
+📆 2024 - Current\
+📍 **CI&T Digital Consulting** - São Paulo/SP, Brazil
 
 - 👨‍💻 **Senior Software Engineer**\
 📆 2023 - Current\
 📍 **Quantica** - São Paulo/SP, Brazil
+
+- 👨‍💻 **React Js Developer Front-end**\
+📆 2023 - 2024\
+📍 **HumanIT Digital Consulting** - São Paulo/SP, Brazil
 
 - 👨‍💻 **Consultant Developer**\
 📆 2021 - 2023\
